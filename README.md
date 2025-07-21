@@ -59,13 +59,10 @@ Adicione o seguinte conteúdo (substitua o ID pelo do seu mouse):
 [ids]
 1bcf:0005
 
-[device]
-mouse = yes
-
 [main]
-mouse1 = C-v           # Ctrl+V (colar)
-mouse2 = C-c           # Ctrl+C (copiar)
-middlemouse = backspace # Backspace
+mouse1 = C-v
+mouse2 = C-c
+middlemouse = backspace
 ```
 
 ---
